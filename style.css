@@ -1,0 +1,39 @@
+.main-css div{
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+}
+
+body {
+    background-color: #0056D2;
+    padding: 10rem;
+}
+
+.text-css h1{
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    font-size: 3rem;
+    
+}
+
+.text-css p{
+    font-weight: 700;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 40px;
+    color: white;
+}
+
+.text-css button{
+    margin-top: 40px;
+    color: #0056D2;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    background-color: white;
+}
+
+.img-css img{
+    border-radius: 15px;
+}
